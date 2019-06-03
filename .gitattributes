@@ -1,0 +1,4 @@
+{LARGE_FILE} filter=lfs diff=lfs merge=lfs -text
+{shokusaru-web} filter=lfs diff=lfs merge=lfs -text
+{images/hoge/shokusaru3.png} filter=lfs diff=lfs merge=lfs -text
+images/hoge/shokusaru3.png filter=lfs diff=lfs merge=lfs -text
