@@ -1,5 +1,14 @@
 @media(max-width:670px){
 
+    html{
+        overflow:hidden;
+    }
+
+
+    body{
+        display:block;
+        overflow:hidden;
+    }
 
     header{
         height:500px;
