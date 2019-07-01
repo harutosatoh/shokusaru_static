@@ -1,5 +1,11 @@
+html{
+  overflow:hidden;
+}
+
+
 body{
   display:block;
+  overflow:hidden;
 }
  header{
   background-image:url('shokusaru3.png');
@@ -194,3 +200,4 @@ footer {
   width:50%;
   margin:0 auto;
 }
+
