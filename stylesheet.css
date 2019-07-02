@@ -1,11 +1,10 @@
 html{
-  overflow:hidden;
+
 }
 
 
 body{
   display:block;
-  overflow:hidden;
 }
  header{
   background-image:url('shokusaru3.png');
@@ -60,7 +59,7 @@ body{
 
   font-size:60px;
   font-style:bold;
-  font-family:'impact', serif;
+  font-family:Impact;
   color:white;
 }
 
@@ -82,7 +81,6 @@ body{
   background-color:gray;
   color:white;
   font-size:50px;
-  font-family:'Impact';
 }
 .main-title p,.main-information p{
   font-size:20px;

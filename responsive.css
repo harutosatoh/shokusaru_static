@@ -7,8 +7,7 @@
 
     body{
         display:block;
-        overflow:hidden;
-        font-family:serif;
+        font-family:sans-serif;
     }
 
     header{
