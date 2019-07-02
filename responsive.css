@@ -15,6 +15,10 @@
 
     }
 
+    .header-title h1{
+        font-family:sans-serif;
+    }
+
     .pattern-right img{
         width:100%;
         height:100px;
