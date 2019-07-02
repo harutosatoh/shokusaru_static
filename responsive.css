@@ -1,11 +1,9 @@
 @media(max-width:670px){
 
-    html{
-        overflow:hidden;
-    }
 
 
     body{
+        overflow:hidden;
         display:block;
         font-family:sans-serif;
     }
