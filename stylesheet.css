@@ -4,6 +4,7 @@ html{
 
 body{
   display:block;
+  font-family:'Russo One';
 }
  header{
   background-image:url('shokusaru3.png');

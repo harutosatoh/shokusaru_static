@@ -1,13 +1,13 @@
 @media(max-width:670px){
 
     html{
-        overflow:hidden;
+    overflow:scroll;
     }
 
     body{
-        overflow:hidden;
         display:block;
-        font-family: 'Russo One';
+        overflow:scroll;
+        font-family: 'Arial',sans-serif;
     }
 
     header{
