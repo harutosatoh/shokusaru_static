@@ -23,7 +23,7 @@ body{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
 	line-height: 1.6em;
-	overflow: hidden;
+	
 	
 }
 
@@ -628,5 +628,9 @@ more media queries
 	.brand{
 		background-color:rgba(0,0,0,0.2);
 		padding:30px;
+	}
+
+	body{
+		width:100%;
 	}
 }
